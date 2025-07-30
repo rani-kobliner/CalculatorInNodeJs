@@ -18,20 +18,20 @@
 ├── package.json # מידע על המודול, סקריפטים ותלויות
 └── README.md # תיעוד הפרויקט
 
+
 ## 🚀 איך מריצים את הפרויקט
 
-1. יש לוודא ש-Node.js מותקן אצלך.  
-   להורדה: https://nodejs.org
 
-2. לשכפל את המאגר:
+1. ודא ש-Node.js מותקן אצלך במחשב  
+   ניתן להוריד מכאן: https://nodejs.org
 
+2. שכפל את המאגר והיכנס לתיקייה שלו:
+   git clone https://github.com/yourusername/calculator-node.git
+   cd calculator-node
 
-
-```bash
-git clone https://github.com/yourusername/calculator-node.git
-cd calculator-node
 3. התקן את התלויות (אם יש):
    npm install
 
 4. הרץ את המחשבון:
    node index.js
+node index.js
